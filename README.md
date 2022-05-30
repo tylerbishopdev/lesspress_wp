@@ -1,26 +1,23 @@
-## them.es Starter Full Site Editing (FSE) Theme
+## BETA and Experimental: WordPress 6.0-ready anti-theme 
 
-**them.es Starter** is a WordPress Starter Theme built for the new Full Site Editing experience. Please note that the Source files are only recommended for WordPress Developers who are searching for a simple, solid, proved and tested **Full Site Editing Starter Theme** to build upon. **_Don't_ expect a ready-to-use WordPress Theme!**
+Lesspress WordPres Theme eliminates almost everything that sucks for speed in common WordPress themes and is built so that sites do not inherently add back in all the stuff that sucks via plugins. It was built for blogs and publishers who rarely understand how they make their sites slow with just about every addition, settings change, etc. inside WordPress. 
 
-If you want to see it in action or want to download a customized Theme for free, check out [https://them.es/starter-fse](https://them.es/starter-fse)
+Lesspress is built for the new Full Site Editing experience. Please note that the Source files are only recommended for those looking for an experiment. This is a personal pet project and not something that is currently maintained or developed by an experienced development team **_Don't_ expect a bug_free WordPress Theme!**
+
+If you want to see it in action or want to download it, 
 
 
 ## What's included?
 * WordPress Theme
 * Full Site Editing configuration: Templates, Template parts, theme.json and Sass Source files
 * webpack configuration
-* 2 Menus
+
+---> building theme configs that are super-duper fast like this theme here (not yet available).
 
 
-## Task Automation
-This Theme comes with a built in webpack task automation. Sass files will be compiled if changed, vendor prefixes will be added automatically and the CSS will be minified. JS source files will be bundled and minified.
+## Automation
 
-* Prerequisites: [Node.js](https://nodejs.org) (NPM) needs to be installed on your system
-* Open the **Project directory** `/` in Terminal and install the required Node.js dependencies: webpack, Sass-Compiler, Autoprefixer, etc.
-* `$ npm install`
-* Run the **`watch`** script
-* `$ npm run watch`
-* Modify `/theme.json` (Global FSE settings for the block editor and CSS variables), `/assets/main.scss` and `/assets/main.js`
+* Prerequisites: [Node.js](https://nodejs.org) (NPM) needs to be installed locally
 
 
 ## Technology
@@ -31,6 +28,6 @@ This Theme comes with a built in webpack task automation. Sass files will be com
 
 ## Copyright & License
 
-Code and Documentation &copy; [them.es](https://them.es)
+Code boilerplate was modified from; [them.es](https://them.es)
 
 Code released under [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.html)
