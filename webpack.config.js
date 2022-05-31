@@ -1,6 +1,5 @@
 const path = require( 'path' ),
-	// Modify "dev_url" to actual localhost url
-	dev_url = 'http://themes.localhost/starter-fse';
+	dev_url = 'https://github.com/tylerbishopdev/lesspress_wp';
 
 module.exports = {
 	context: path.resolve( __dirname, 'assets' ),
