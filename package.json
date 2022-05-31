@@ -1,13 +1,13 @@
 {
-  "name": "themes-starter-fse",
-  "version": "1.0.0",
+  "name": "lesspress_beta",
+  "version": "0.0.00000001",
   "license": "GPL-2.0",
-  "description": "A WordPress Starter Theme built for Full Site Editing.",
-  "homepage": "https://them.es",
-  "author": "them.es",
+  "description": "An anti-theme to end the proliferation of themes",
+  "homepage": "https://unwordpress.com",
+  "author": "$hibaKing",
   "repository": {
     "type": "git",
-    "url": "git://github.com/them-es/themes-starter-fse.git"
+    "url": "https://github.com/tylerbishopdev/lesspress_wp.git"
   },
   "scripts": {
     "watch": "webpack"
